@@ -1,5 +1,5 @@
 # DecisionTrees
-Predicting Student Loan Defaults Using Decision Trees
+Predicting Student Loan Defaults Using Decision Trees.
 Our data set for this assignment contains  2000 rows of student loan data with features like :study field, selective college, loan amount etc. Steps we followed in order to create a decision tree classifier :
 
 - Load dataset and perform explanatory data analysis.
